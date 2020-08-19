@@ -1,0 +1,10 @@
+Your program will accept two unsorted files. 
+Each file contains  4 columns separated by space. 
+First column is the name(string). 
+Rest of the columns (3 columns) are integers representing the grades. 
+Load the first file into a two dimensional hash data structure with the sum of the integers(total grade) as the second 
+dimension key and the name as the first dimension key.
+Load the second file into a two dimensional hash data structure with the sum of the integers(total grade) as the second 
+dimension key and the student name as the first dimension key. 
+Print the student names that occur in both Hashes (intersection of two Hash data structures) and and their total grades from each file. 
+Output should be sorted by the ascending order of the student's name. 
